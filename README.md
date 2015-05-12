@@ -1,2 +1,3 @@
 # Dev-notes
-Documantation and sup files for DTO collaborators.
+This is a place where we put expert curated files are uploaded to the DTO Github repository and kept updated here.
+Some basic documentation to facilitate collaborated development can be stored here too.
