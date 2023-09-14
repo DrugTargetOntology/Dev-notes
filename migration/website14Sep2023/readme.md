@@ -8,9 +8,9 @@ graph TD;
 ```
 
 ### Notes
-Current
+#### Current
 - domain registrar:  godaddy
 - site host:  namecheap (html and ontology files)
-Proposed
+#### Proposed
 - domain registrar:  godaddy
 - site host:  github (html and ontology files)
